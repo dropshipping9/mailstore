@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 fake = Faker()
 
 # Configure the correct path to the Firefox geckodriver
-geckodriver_path = r"C:\Users\hp\Desktop\geckodriver.exe"  # Correct path to geckodriver
+geckodriver_path = r"C:\Users\runneradmin\Desktop\geckodriver.exe"  # Updated to the desktop path
 
 # Set up the Selenium WebDriver with FirefoxOptions
 options = Options()
